@@ -1,0 +1,42 @@
+.grayNav {
+	CURSOR: pointer; COLOR: #1d1e20; BACKGROUND-COLOR: #dbdfe2; A: link
+}
+.grayNav A:link {
+	COLOR: #a61c1c; TEXT-DECORATION: none
+}
+.grayNav A:visited {
+	COLOR: #a61c1c; TEXT-DECORATION: none
+}
+.grayNavText {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-HEIGHT: 16px; FONT-FAMILY: Verdana, Arial, Helvetica, Genvea, sans-serif
+}
+TR TD.grayNav A:link {
+	TEXT-DECORATION: none
+}
+TR TD.grayNav A:visited {
+	TEXT-DECORATION: none
+}
+TR.grayNavRow TD {
+	BORDER-RIGHT: medium none; BORDER-TOP: #dbdfe2 0px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: medium none; BORDER-BOTTOM: #dbdfe2 0px solid
+}
+.redNav {
+	CURSOR: pointer; COLOR: #ffffff; BACKGROUND-COLOR: #cc0204; A: link
+}
+.redNav A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.redNav A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.redNavText {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 10px; LINE-HEIGHT: 16px; FONT-FAMILY: Verdana, Arial, Helvetica, Genvea, sans-serif
+}
+TR TD.redNav A:link {
+	TEXT-DECORATION: none
+}
+TR TD.redNav A:visited {
+	TEXT-DECORATION: none
+}
+TR.redNavRow TD {
+	BORDER-RIGHT: medium none; BORDER-TOP: #e88d8e 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: medium none; BORDER-BOTTOM: #800001 1px solid
+}
